@@ -1,2 +1,2 @@
 # data101
-privacy files
+Asssessing and predicting e-commerce shoppers  intentions
